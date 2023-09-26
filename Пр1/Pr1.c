@@ -117,7 +117,7 @@ void printf_s()
     }
 }
 // Driver code
-void main()
+int  main()
 
 {
  int choice, count;
