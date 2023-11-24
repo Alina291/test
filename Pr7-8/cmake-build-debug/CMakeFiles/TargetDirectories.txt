@@ -1,0 +1,3 @@
+/Users/alinasapelnyk/Downloads/Университет/Opersys/Pr7/cmake-build-debug/CMakeFiles/Pr7.dir
+/Users/alinasapelnyk/Downloads/Университет/Opersys/Pr7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alinasapelnyk/Downloads/Университет/Opersys/Pr7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
